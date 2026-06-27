@@ -1,0 +1,122 @@
+{
+  "wallpapers": [
+    {
+      "id": 1,
+      "title": "Radha Krishna Divine Union",
+      "imageUrl": "https://images.unsplash.com/photo-1608976451631-0164c9a5933d?w=800&auto=format&fit=crop&q=80",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 2,
+      "title": "Krishna playing Flute in Vrindavan",
+      "imageUrl": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "category": "Bal Krishna"
+    },
+    {
+      "id": 3,
+      "title": "Bal Krishna Eating Butter",
+      "imageUrl": "https://images.unsplash.com/photo-1544924405-b1086127e28b?w=800&auto=format&fit=crop&q=80",
+      "category": "Bal Krishna"
+    },
+    {
+      "id": 4,
+      "title": "The Path of Righteousness",
+      "imageUrl": "https://images.unsplash.com/photo-1620121692029-d088224ddc74?w=800&auto=format&fit=crop&q=80",
+      "category": "Bhagavad Gita"
+    },
+    {
+      "id": 5,
+      "title": "Artistic Krishna Painting",
+      "imageUrl": "https://images.unsplash.com/photo-1609137144814-63c659fa4219?w=800&auto=format&fit=crop&q=80",
+      "category": "Krishna Art"
+    },
+    {
+      "id": 6,
+      "title": "Janmashtami Celebrations Card",
+      "imageUrl": "https://images.unsplash.com/photo-1630325997232-a58145eb547d?w=800&auto=format&fit=crop&q=80",
+      "category": "Janmashtami"
+    },
+    {
+      "id": 7,
+      "title": "Lord Krishna Temple of Mathura",
+      "imageUrl": "https://images.unsplash.com/photo-1617653245465-b12e3e5c010b?w=800&auto=format&fit=crop&q=80",
+      "category": "Krishna Temple"
+    },
+    {
+      "id": 8,
+      "title": "Glorious Peacock Feather Detail",
+      "imageUrl": "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?w=800&auto=format&fit=crop&q=80",
+      "category": "HD Wallpapers"
+    },
+    {
+      "id": 9,
+      "title": "Radha Krishna Flute Chords",
+      "imageUrl": "https://images.unsplash.com/photo-1561055657-b9e0bf0fa360?w=800&auto=format&fit=crop&q=80",
+      "category": "Radha Krishna"
+    },
+    {
+      "id": 10,
+      "title": "Krishna Gita Upadesh Chariot",
+      "imageUrl": "https://images.unsplash.com/photo-1584551246679-0dac3d27180f?w=800&auto=format&fit=crop&q=80",
+      "category": "Bhagavad Gita"
+    }
+  ],
+  "ringtones": [
+    {
+      "id": 101,
+      "title": "Hare Krishna Maha Mantra",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "duration": "06:12",
+      "category": "Hare Krishna"
+    },
+    {
+      "id": 102,
+      "title": "Spiritual Vrindavan Flute Music",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "duration": "07:05",
+      "category": "Flute Music"
+    },
+    {
+      "id": 103,
+      "title": "Radhe Radhe Barsane Wali Radhe",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "duration": "05:44",
+      "category": "Radha Krishna Songs"
+    },
+    {
+      "id": 104,
+      "title": "Bal Krishna Makhan Chor Bhajan",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "duration": "05:02",
+      "category": "Krishna Bhajan"
+    },
+    {
+      "id": 105,
+      "title": "Achyutam Keshavam Divine Chant",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      "duration": "06:03",
+      "category": "Devotional Chants"
+    },
+    {
+      "id": 106,
+      "title": "Janmashtami Special flute",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+      "duration": "04:50",
+      "category": "Janmashtami Songs"
+    },
+    {
+      "id": 107,
+      "title": "Govinda Gopala Chant",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "duration": "06:12",
+      "category": "Devotional Chants"
+    },
+    {
+      "id": 108,
+      "title": "Divine Peacock Dance Flute",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "duration": "07:05",
+      "category": "Flute Music"
+    }
+  ]
+}
